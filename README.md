@@ -6,15 +6,15 @@ F. Schirrmacher, B. Lorch, A. Maier and C. Riess, "Benchmarking Probabilistic De
 
 If you use this code in your work, please cite:
 
-@ARTICLE{10143386,
-  author={Schirrmacher, Franziska and Lorch, Benedikt and Maier, Anatol and Riess, Christian},
-  journal={IEEE Transactions on Intelligent Transportation Systems}, 
-  title={Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition}, 
-  year={2023},
-  volume={24},
-  number={9},
-  pages={9203-9216},
-  doi={10.1109/TITS.2023.3278533}}
+      @ARTICLE{10143386,
+        author={Schirrmacher, Franziska and Lorch, Benedikt and Maier, Anatol and Riess, Christian},
+        journal={IEEE Transactions on Intelligent Transportation Systems}, 
+        title={Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition}, 
+        year={2023},
+        volume={24},
+        number={9},
+        pages={9203-9216},
+        doi={10.1109/TITS.2023.3278533}}
 
 
 ## Getting started
