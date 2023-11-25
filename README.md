@@ -1,6 +1,4 @@
-# LPR-uncertainty
-
-# SR²
+# Benchmarking Probabilistic Deep Learning Methods for License Plate Recognition
 
 This repository contains the implementation of the paper
 
